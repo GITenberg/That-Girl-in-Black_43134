@@ -1,0 +1,36 @@
+_repo: That-Girl-in-Black_43134
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Molesworth, Mrs.
+    aliases:
+    - Molesworth, Mary Louisa Stewart
+    - Mrs. (Mary Louisa) Molesworth
+    birthdate: 1839
+    deathdate: 1921
+    gutenberg_agent_id: '2147'
+    url: http://www.gutenberg.org/2009/agents/2147
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Louisa_Molesworth
+description: ''
+gutenberg_issued: '2013-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43134'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Pride and vanity -- Juvenile fiction'
+- !lcsh 'Bashfulness -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Dance parties -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: That Girl in Black; and, Bronzie
+url: http://www.gutenberg.org/ebooks/43134
